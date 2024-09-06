@@ -7,4 +7,4 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunellaquaye&" alt="brunellaquaye" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunellaquaye&" alt="brunellaquaye" /></p>
